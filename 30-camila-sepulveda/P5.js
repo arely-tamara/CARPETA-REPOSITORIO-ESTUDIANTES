@@ -46,3 +46,4 @@ sintaxis: background(v1, v2, v3,
   programa para sacar codigos de colores: HTML colors codes, colormode(HSL), 
 
     SI se quiere hacer una estela de colores swe deb poner el color background en estup, pero si se quiere un fondo plano se color se debe dejar en background
+     coordenada x es el ancho, horizontal, y vertical                                                
