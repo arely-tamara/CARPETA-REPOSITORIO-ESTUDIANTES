@@ -25,6 +25,23 @@ carga omagenes y sonidos y establece configuraciones que no cambiarán.
 draw(){ se ejecuta en blucle infinito lo que permite crear animaciones.
 
 Sepuede escribir arriba de los funcion
- {createcanvas} 
+ {createcanvas} Siempre dentro de septup
 Sintaxis: createCanvas([width], [height],[renderer],[canvas];
 Ejemeplo: createCanvas(100,100);
+
+Optativo: [renderer] Es el modo "2D" el que usas por defecto si no escribes nada, optimizas formas basicas, textos e imagenes planas.
+
+Background
+Sintaxis: background(v1,v2,v3,[a]);
+
+Escala de grises: 0 es negro y 255 blanco
+Color RGB (3numero)
+
+colorMode(RGB)
+H:Hue o - 360
+S:Saturacion 0 - 100
+B:Brightness 0 - 100
+
+H: Hue
+S: Saturacion
+L: Lightness
