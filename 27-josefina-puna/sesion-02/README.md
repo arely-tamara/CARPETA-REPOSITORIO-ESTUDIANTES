@@ -47,7 +47,7 @@ Cuadricula fija de 100x100 pixeles.
 ## Encargo 2 
  <img width="1479" height="1482" alt="image" src="https://github.com/user-attachments/assets/9c810fd9-ebc9-45c2-b6f2-a9b01c6c889c" />
 
-##Apuntes clase markdown  
+## Apuntes clase markdown  
 Markdown es un lenguaje ligero, una forma de escribir texto con formato. separar dos prarrafos presionar enter dos veces y confirmar cambios  
 
 texto baje a la siguiente linea sin dejar un parrafo, debes poner dos espacios en blanco al final de la frase y presionar enter  
